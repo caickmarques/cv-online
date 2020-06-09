@@ -58,3 +58,22 @@ body{
 .footer a:hover{
 	font-weight: bold;
 }
+
+/*=========== Seções ============*/
+.livros{
+	background-color: #a8aaad;
+	padding: 50px;
+}
+.livros ul, .qualidades ul, .defeitos ul{
+	list-style: none;
+}
+
+.qualidades{
+	background-color: #8f9194;
+	padding: 50px;
+}
+
+.defeitos{
+	background-color: #6c6f73;
+	padding: 50px;
+}
